@@ -1,1 +1,1 @@
-# This repo about my query for MIS & Tech: Data Challenges 2022
+# This repo is about my query for MIS & Tech: Data Challenges 2022
