@@ -1,0 +1,1 @@
+# This repo about my query for MIS & Tech: Data Challenges 2022
